@@ -1,0 +1,23 @@
+<package>
+	<id>com.r44444.iosgods</id>
+	<name>iOSGods Agar.io Zoom</name>
+	<version>2.10.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>13.5</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>iOSGods Agar.io Zoom for 2.10.0</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Update release</change>
+	</changelog>
+	<links></links>
+</package>
