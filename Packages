@@ -7,7 +7,7 @@ Architecture: iphoneos-arm
 Filename: ./debs/com.r44444.iosgods_2.10.0_.deb
 Size: 2200000
 MD5sum: fee3ab539188486b97e7c097e7999f73
-Description: 
-Name: iOSGods Agar.io
+Description: iOSGods Agar.io Zoom for 2.10.0
+Name: iOSGods Agar.io Zoom
 Author: iOSGods <oops@example.com>
 Depiction: https://r44444.github.io/repo/depictions/?p=com.r44444.iosgods
