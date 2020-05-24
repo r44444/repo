@@ -5,7 +5,7 @@ Maintainer: r44444 <oops@example.com>
 Depends: firmware (>11.0), PreferenceLoader, mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/com.r44444.iosgods_2.10.0_.deb
-Size: 2200000
+Size: 2340596
 MD5sum: fee3ab539188486b97e7c097e7999f73
 Description: iOSGods Agar.io Zoom for 2.10.0
 Name: iOSGods Agar.io Zoom
