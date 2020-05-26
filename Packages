@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: r44444 <oops@example.com>
 Depends: firmware (>11.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.r44444.iosgods_2.10.0_.deb
+Filename: ./debs/com.r44444.iosgods_2.10.0_iphoneos-arm.deb
 Size: 2343346
 MD5sum: ac981291819a68853f60ae0a820a42b1
 Description: iOSGods Agar.io Zoom for 2.10.0
